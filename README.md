@@ -10,7 +10,7 @@ Um site desenvolvido para demonstrar os anais do Simpósio Latino Americano de C
 
 ## Sobre o projeto
 
-Este projeto é um desafio, para criar um website a partir de representações feitas no figma.
+Este projeto é um desafio, para criar um website a partir de representações feitas no figma, com demonstrações de features.
 
 ## Tecnologias
 
