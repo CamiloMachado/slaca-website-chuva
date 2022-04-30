@@ -64,3 +64,36 @@ expanded.addEventListener("click", function () {
   });
 });
 
+// Funcionalidade de open side menu e close
+
+const openNav = document.getElementById('open-nav');
+const closeNav = document.getElementById('close-nav');
+const menu = document.getElementById('menu');
+const navMenu = document.getElementById('side-menu');
+const main = document.getElementById('main');
+
+openNav.addEventListener("click", function () {
+  openNav.style.display = 'none';
+
+  navMenu.style.display = 'block';
+  menu.style.display = 'block';
+  menu.style.width = '250px';
+  menu.style.position = 'absolute';
+  menu.style.zIndex = '1';
+  menu.style.background = '#FFF';
+
+  main.style.position = 'static';
+
+  closeNav.style.display = 'inline';
+});
+
+closeNav.addEventListener("click", function () {
+  closeNav.style.display = 'none';
+  openNav.style.display = 'block';
+
+  navMenu.style.display = 'none';
+  menu.style.display = 'flex';
+  menu.style.width = '30px';
+
+  main.style.position = 'relative';
+});
