@@ -92,5 +92,5 @@ closeNav.addEventListener("click", function () {
 
   navMenu.style.display = 'none';
   menu.style.display = 'flex';
-  menu.style.width = '30px';
+  menu.style.width = '10px';
 });

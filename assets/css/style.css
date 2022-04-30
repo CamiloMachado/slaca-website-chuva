@@ -845,32 +845,24 @@ ul{
   }
 }
 
+/* @media (max-width: 1920px){
 
-@media (max-width: 1920px){
-
-}
-
-
-
-
-
+} */
 
 @media (max-width: 1280px){
 
   #menu {
     position: static;
-    width: 30px;
+    width: 0px;
     height: 90px;
     display: flex;
-  } 
-  
+  }
 
   #hidden-nav {
     display: flex;
     justify-content: center;
     align-items: center;
     background: #FDF1EB;
-    padding: 5px;
     border: none;
   }
   
@@ -879,6 +871,7 @@ ul{
     background: #FDF1EB;
     border: 1px solid #CCC;
     padding: 5px;
+    margin-left: 20px;
   }
 
   #close-nav {
@@ -895,6 +888,7 @@ ul{
   
   #content {
     width: 100%;
+    left: 30px;
   }
 
   #header {
