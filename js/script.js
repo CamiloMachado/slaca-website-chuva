@@ -104,3 +104,4 @@ closeNav.addEventListener("click", function () {
   menu.style.display = 'flex';
   menu.style.width = '10px';
 });
+
