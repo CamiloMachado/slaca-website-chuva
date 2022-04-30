@@ -1,7 +1,6 @@
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 body{
@@ -131,7 +130,7 @@ ul{
 
 .selected-link {
   width: 5px;
-  height: 33px;
+  height: 43px;
   display: none;
   justify-content: center;
   align-items: center;
@@ -864,7 +863,7 @@ ul{
 
   #menu {
     position: static;
-    width: 0px;
+    width: 23px;
     height: 90px;
     display: flex;
   }
@@ -882,7 +881,7 @@ ul{
     background: #FDF1EB;
     border: 1px solid #CCC;
     padding: 5px;
-    margin-left: 20px;
+    margin: 0 20px;
   }
 
   #close-nav {
@@ -899,7 +898,8 @@ ul{
   
   #content {
     width: 100%;
-    left: 30px;
+    left: 15px;
+    padding: 0px 0px 0px 10px;
   }
 
   #header {
