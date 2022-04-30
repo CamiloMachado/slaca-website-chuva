@@ -6,11 +6,6 @@ Um site desenvolvido para demonstrar os anais do Simpósio Latino Americano de C
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ![GitHub repo size](https://img.shields.io/github/repo-size/CamiloMachado/slaca-website-chuva)
 
-<p align="center" dir="auto">
-  <a href="https://github.com/CamiloMachado/slaca-website-chuva/issues">Report Bug</a> •
-  <a href="https://github.com/CamiloMachado/slaca-website-chuva/issues">Request Feature</a>
-</p>
-
 ![tela site](https://user-images.githubusercontent.com/87827058/166091397-6395f58e-0296-4024-a016-c5f3e3ce6e9c.png)
 
 ## Sobre o projeto
